@@ -5,7 +5,7 @@ output: html_document
 
 # Saharsh Manderwad - Paragraph
 
-Hi, I’m Saharsh — I’m pursuing a dual degree in Statistics & Data Science and Math at UT Austin. I love thinking fast and using math in the real world, and I’ve been building small web and data projects in my spare time.
+Hi, I’m Saharsh — I’m pursuing a dual degree in Statistics & Data Science and Math at UT Austin. I love thinking fast and using math in the real world, and I’ve been building small web and data projects in my spare time. Recently, I’ve been exploring sports analytics and building tools in R and Python to answer real questions about performance and strategy. I enjoy collaborating with teams like Texas Raas, where I’ve learned to plan, iterate, and deliver under pressure. When I’m not coding, you’ll find me playing pickup basketball or sketching out the next app idea.
 
 **GitHub:** [github.com/saharsh-man55](https://github.com/saharsh-man55)
 
