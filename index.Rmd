@@ -3,15 +3,15 @@ title: "My Website"
 output: html_document
 ---
 
-# Saharsh Manderwad
+# Saharsh Manderwad - Paragraph
 
 Hi, I’m Saharsh — I’m pursuing a dual degree in Statistics & Data Science and Math at UT Austin. I love thinking fast and using math in the real world, and I’ve been building small web and data projects in my spare time.
 
 **GitHub:** [github.com/saharsh-man55](https://github.com/saharsh-man55)
 
-![A photo I took](me.jpg){width=360px}
+<img src="img/me.jpg" alt="A photo I took" width="360" />
 
-## A few things I enjoy
+## Hobbies:
 - Basketball, Football, Cricket
 - Texas Raas dance team
 - Poker
